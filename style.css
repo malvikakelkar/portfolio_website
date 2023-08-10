@@ -1,0 +1,72 @@
+#top-container{
+        display: flex;
+        background-color: #F6F4EB;
+        height: 120px;
+        justify-content: center;
+
+}
+
+h1 {
+        color: #336B89;
+        font-family: Georgia;
+
+        
+}
+
+.title-text{
+        margin-top: 30px;
+}
+
+#hero-image{
+        border-radius: 50%;
+}
+
+
+.display-5{
+        align-items: center;
+        color: #336B89!important;
+        font-family: Georgia;
+       
+}
+
+.fw-bold{
+        font-weight: 300!important;
+}
+
+.centre-text{
+        text-align: center;
+}
+
+.lead{
+        font-size: 18pt;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.my-skills{
+        color: #336B89;
+        font-family: Georgia;
+}
+
+.skills{
+        background-color: #F6F4EB;
+}
+
+.contact-me{
+        text-align: center;
+        margin-top: 50px;
+        color: #336B89;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.text-body-secondary{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.text-body-emphasis{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.description{
+        font-family:Georgia, 'Times New Roman', Times, serif;  
+}
